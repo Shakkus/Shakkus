@@ -1,8 +1,11 @@
-<h3 align="center">A passionate frontend developer from Argentina</h3>
-
+<h3 align="left">HI! i'm Sebastian Albornoz</h3>
+<h3 align="left">A passionate frontend developer from Argentina 🚀</h3>
+<p>I've been a web developer since 2020, and I'm looking to enhance my experiences in the technological field and bring value to the projects I'm involved in. I'm currently doing freelance work and seeking opportunities in the IT world.</p>
+<h2>What I do?<h2>
+<p>I am currently a freelance developer and I am looking to join a company that seeks value for itself</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sebastian albornoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian albornoz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sebastian-albornoz-126b90237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian albornoz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

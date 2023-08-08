@@ -1,7 +1,7 @@
 <h3 align="left">HI! i'm Sebastian Albornoz</h3>
 <h3 align="left">A passionate frontend developer from Argentina 🚀</h3>
 <p>I've been a web developer since 2020, and I'm looking to enhance my experiences in the technological field and bring value to the projects I'm involved in. I'm currently doing freelance work and seeking opportunities in the IT world.</p>
-<h2>What I do?<h2>
+<h3>What I do?<h3>
 <p>I am currently a freelance developer and I am looking to join a company that seeks value for itself</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
